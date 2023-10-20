@@ -23,7 +23,7 @@ body {
 .button {
   border-radius: 8px;
   background: linear-gradient(96deg, #da8023 0%, #e2b438 100%);
-  width: 260px;
+  width: 170px;
   height: 62px;
   padding: 19px;
   box-sizing: border-box;
@@ -88,7 +88,7 @@ body {
   padding: 11px;
   border-radius: 5px;
   box-sizing: border-box;
-  width: 45px;
+  width: 55px;
   height: 45px;
   text-align: center;
   cursor: pointer;
@@ -194,8 +194,6 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.products-item-info {
-}
 .products-item-price {
   font-size: 32px;
   line-height: 39px;
@@ -205,8 +203,6 @@ body {
   font-size: 16px;
   line-height: 18px;
   color: #757575;
-}
-.products-item-action {
 }
 .button .product-button {
   display: flex;
